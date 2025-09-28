@@ -3626,7 +3626,7 @@ body.landing #main {
     padding-bottom: 1px;
   }
 
-  #navButton {
+  /* #navButton {
     -moz-backface-visibility: hidden;
     -webkit-backface-visibility: hidden;
     -ms-backface-visibility: hidden;
@@ -3773,7 +3773,7 @@ body.landing #main {
     -ms-transform: translateX(0);
     transform: translateX(0);
   }
-}
+}*/
 
 /* Mobile */
 
