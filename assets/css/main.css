@@ -14,8 +14,8 @@
 /* CUSTOMIZATION */
 
 #custom-logo {
-  width: 6rem;
-  height: 6rem;
+  width: 9rem;
+  height: 9rem;
 }
 /* END OF CUSTOMIZATION */
 
@@ -3537,10 +3537,10 @@ body.landing #main {
 
 /* Narrower */
 
-#navPanel,
+/* #navPanel,
 #navButton {
   display: none;
-}
+} */
 
 @media screen and (max-width: 840px) {
   /* Basic */
